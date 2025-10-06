@@ -16,10 +16,11 @@ With Firefox and Microsoft Edge combining for approximately 8-10% of the browser
 
 ## Installation
 You can install these codes by copying and pasting the script directly into your site, or by using the URL hosted on Insiteful.co, as seen below:
+NOTE: The file names defer between the Github repo and the Insiteful.co hosted copies, make sure to use the correct filename as listed below:
 
 ### URL Installation
 ```html
-<script src="path/to/hubspot-forms.js"></script>
+<script defer src="//insiteful.co/dist/fix-hubspot-forms.js"></script>
 ```
 
 ## Contributing
