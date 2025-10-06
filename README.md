@@ -32,4 +32,4 @@ MIT
 
 ---
 
-**Built by the team at [Insiteful](https://insiteful.co)** - The form abandonment tracking tool for HubSpot Forms.
+**Built by the team at [Insiteful](https://insiteful.co?ref=github&utm_content=tracking-prev-readme)** - The form abandonment tracking tool for HubSpot Forms.
