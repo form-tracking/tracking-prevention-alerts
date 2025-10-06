@@ -1,6 +1,7 @@
 // Detect HubSpot forms blocked by browser tracking prevention (Edge, Firefox, Safari)
-// Built by Insiteful.co
-// MIT License
+// Built by Insiteful.co (C) Copyright 2025 Insiteful
+// MIT License: https://opensource.org/license/mit
+// The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 (function() {
   // Check if browser is Edge, Firefox, or Safari
